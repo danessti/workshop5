@@ -10,6 +10,7 @@
 ### Repositorio respuesta al taller planteado, en el se evalua si un archivo .html cuenta con sus etiquetas formateadas de manera correcta o no (Accede al archivo por medio de la ruta de ubicacion).
 
 ### En el proyecto se cuenta con dos paquetes:
+* #### La respuesta se encuentra en la rama Main
 * Main: en el que se encuentras las clases suministradas para el desarrollo del ejercicio, la clase HtmlValidator donde se encuentra el método que evalúa si las etiquetas del archivo .html se encuentran bien formateadas y la clase Main en la cual se realizan algunas pruebas para validar el funcionamiento del mencionado.
 * testFiles: en el que se encuentran varios archivos .html con los cuales se realizaron validaciones al funcionamiento del método anteriormente mencionado.
 
